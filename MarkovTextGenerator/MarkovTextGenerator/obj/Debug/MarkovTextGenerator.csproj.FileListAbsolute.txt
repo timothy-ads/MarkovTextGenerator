@@ -1,0 +1,8 @@
+C:\Users\noelc\OneDrive\Documents\Github\MarkovTextGenerator\MarkovTextGenerator\bin\Debug\Data\Sample.txt
+C:\Users\noelc\OneDrive\Documents\Github\MarkovTextGenerator\MarkovTextGenerator\bin\Debug\MarkovTextGenerator.exe.config
+C:\Users\noelc\OneDrive\Documents\Github\MarkovTextGenerator\MarkovTextGenerator\bin\Debug\MarkovTextGenerator.exe
+C:\Users\noelc\OneDrive\Documents\Github\MarkovTextGenerator\MarkovTextGenerator\bin\Debug\MarkovTextGenerator.pdb
+C:\Users\noelc\OneDrive\Documents\Github\MarkovTextGenerator\MarkovTextGenerator\obj\Debug\MarkovTextGenerator.csprojAssemblyReference.cache
+C:\Users\noelc\OneDrive\Documents\Github\MarkovTextGenerator\MarkovTextGenerator\obj\Debug\MarkovTextGenerator.csproj.CoreCompileInputs.cache
+C:\Users\noelc\OneDrive\Documents\Github\MarkovTextGenerator\MarkovTextGenerator\obj\Debug\MarkovTextGenerator.exe
+C:\Users\noelc\OneDrive\Documents\Github\MarkovTextGenerator\MarkovTextGenerator\obj\Debug\MarkovTextGenerator.pdb
